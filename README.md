@@ -1,2 +1,9 @@
 # Building-AI-Voice-Agents-for-production
-Creating voice agent by using end to end architecture and components
+
+What is AI Voice Agent?
+Definition: Voice Agents combine speech and reasoning abilities of foundation models to deliver real-time, human-like voice interactions.
+
+• Use cases
+  - improve learning: guide personalized skill development, conduct interviews
+  - handle customer service voice calls (restaurant booking, sales, insurance)
+  - improve accessibility in medical and talk therapy applications
