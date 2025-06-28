@@ -12,3 +12,8 @@ Definition: Voice Agents combine speech and reasoning abilities of foundation mo
   - Automatic Speech Recognition (ASR), also known as Speech-to-Text (STT): the task of transcribing a given audio signal to text. ◦ audio -> text
   - LLMs and LLM Agent: generate a response to the transcribed query ○ text -> text or multimodal response (e.g. text and images)
   - Text-to-Speech (TTs), also known as Speech Synthesis: the task of generating natural and intelligible speech from text ○ text -> audio
+    
+• Example Providers
+  - STT APIs : Deepgram, fal, OpenAI
+  - LLM APIs : OpenAI, Anthropic
+  - TTS APIs : ElevenLabs TTS
